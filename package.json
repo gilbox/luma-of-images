@@ -1,0 +1,22 @@
+{
+  "name": "luma-of-images",
+  "version": "1.0.0",
+  "description": "calculate luma of images",
+  "main": "index.js",
+  "dependencies": {
+    "color-luminance": "^2.1.0",
+    "glob": "^7.1.2",
+    "jpeg-js": "^0.3.3",
+    "json2csv": "^3.11.5",
+    "minimist": "^1.2.0",
+    "progress": "^2.0.0",
+    "sharp": "^0.19.0",
+    "webworker-threads": "^0.7.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
